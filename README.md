@@ -10,30 +10,30 @@
  <td align="center" colspan="11"></td>
 </tr> 
 <tr>
-<td><a href="" target="_blank"><img src="https://joaopauloaramuni.github.io/image/github5.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://github.com/LaChacas" target="_blank"><img src="https://joaopauloaramuni.github.io/image/github5.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href=""><img src="https://joaopauloaramuni.github.io/image/replit3.svg?raw=true" width="50px" height="50px"/></a>
+<!--td><a href=""><img src="https://joaopauloaramuni.github.io/image/replit3.svg?raw=true" width="50px" height="50px"/></a>
+</td-->
+<!--td><a href="" target="_blank"><img src="https://joaopauloaramuni.github.io/image/gmail3.png?raw=true" width="50px" height="50px"/></a>
+</td-->
+<td><a href="31 9 975811118" target="_blank"><img src="https://joaopauloaramuni.github.io/image/wpp2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="" target="_blank"><img src="https://joaopauloaramuni.github.io/image/gmail3.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.instagram.com/qr/?hl=en" target="_blank"><img src="https://joaopauloaramuni.github.io/image/insta2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="" target="_blank"><img src="https://joaopauloaramuni.github.io/image/wpp2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.linkedin.com/in/gustavo-severiano-430833402" target="_blank"><img src="https://joaopauloaramuni.github.io/image/linkedin2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="" target="_blank"><img src="https://joaopauloaramuni.github.io/image/insta2.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="" target="_blank"><img src="https://joaopauloaramuni.github.io/image/linkedin2.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="" target="_blank"><img src="https://joaopauloaramuni.github.io/image/lattes2.png?raw=true" width="50px" height="50px"/></a>
-</td>
+<!--td><a href="" target="_blank"><img src="https://joaopauloaramuni.github.io/image/lattes2.png?raw=true" width="50px" height="50px"/></a>
+</td-->
 <!--<td><a href="https://slack.com/app_redirect?channel=UVD9N6VCL"><img src="https://joaopauloaramuni.github.io/image/slack.png?raw=true" width="50px" height="50px"/></a>
 </td>-->
-<td><a href="" target="_blank"><img src="https://joaopauloaramuni.github.io/image/discord2.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="" target="_blank"><img src="https://joaopauloaramuni.github.io/image/skoob2.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="" target="_blank"><img src="https://joaopauloaramuni.github.io/image/scholar2.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="" target="_blank"><img src="https://joaopauloaramuni.github.io/image/calendar2.png?raw=true" width="50px" height="50px"/></a>
-</td>
+<!--td><a href="" target="_blank"><img src="https://joaopauloaramuni.github.io/image/discord2.png?raw=true" width="50px" height="50px"/></a>
+</td-->
+<!--td><a href="" target="_blank"><img src="https://joaopauloaramuni.github.io/image/skoob2.png?raw=true" width="50px" height="50px"/></a>
+</td-->
+<!--td><a href="" target="_blank"><img src="https://joaopauloaramuni.github.io/image/scholar2.png?raw=true" width="50px" height="50px"/></a>
+</td-->
+<!--td><a href="" target="_blank"><img src="https://joaopauloaramuni.github.io/image/calendar2.png?raw=true" width="50px" height="50px"/></a>
+</td-->
 </tr>
 <tr>
  <td align="center" colspan="11"></td>
@@ -42,7 +42,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Aramuni</code>, tenho 34 anos, moro em BH e sou programador desde os 15 anos de idade. Atualmente sou <code>professor</code> nos cursos de Engenharia de Software e Ciência da Computação da <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.</i> :man_teacher:<br />
+<i><b>Olá</b> :wave:, sou o <code>Gustavo</code>, tenho 24 anos, moro em Ribeirão das Neves e estou estudando programação na Newton Paiva Wyden cursando Analise e Desenvolvimento de Sistema. Atualmente sou <code>Aussiliar de TI</code> na empresa Dukar Despachantes.</a>.</i> :man_teacher:<br />
 </div>
 -----
 
@@ -80,7 +80,7 @@
 <img alt="GitHub Trends" src="https://api.githubtrends.io/user/svg/joaopauloaramuni/repos?time_range=one_year&loc_metric=changed&theme=dark"/>
 </td>
 <td>
-<img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=aramuni&theme=dark&layout=compact"/>
+<img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=LaChacas&theme=dark&layout=compact"/>
 </td>
 </tr>
 <tr>
@@ -94,7 +94,7 @@
 </tr> 
 <tr>
 <td>
-<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaopauloaramuni&theme=github_dark"/>
+<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gustavoseveriano&theme=github_dark"/>
 </td>
 <td>
 <img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LaChacas&theme=github_dark"/>
