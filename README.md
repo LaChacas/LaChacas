@@ -42,7 +42,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Gustavo</code>, tenho 24 anos, moro em Ribeirão das Neves e estou estudando programação na Newton Paiva Wyden cursando Analise e Desenvolvimento de Sistema. Atualmente sou <code>Aussiliar de TI</code> na empresa Dukar Despachantes.</a>.</i> :man_teacher:<br />
+<i><b>Olá</b> :wave:, sou o <code>Gustavo</code>, tenho 24 anos, moro em Ribeirão das Neves e estou estudando programação na Newton Paiva Wyden cursando Analise e Desenvolvimento de Sistema. Atualmente sou <code>Auxiliar de TI</code> na empresa Dukar Despachantes.</a>.</i> :man_teacher:<br />
 </div>
 -----
 
@@ -72,7 +72,7 @@
 </table>
 <table>
 <tr>
- <td align="center">:octocat: <a href="https://www.githubwrapped.io/joaopauloaramuni" target="_blank">GitHub Wrapped</a></td>
+ <td align="center">:octocat: <a href="https://www.githubwrapped.io/LaChacas" target="_blank">GitHub Wrapped</a></td>
  <td align="center">:watch: <a href="https://wakatime.com/@aramuni">WakaTime</a></td>
 </tr>
 <tr>
