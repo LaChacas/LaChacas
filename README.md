@@ -10,30 +10,16 @@
  <td align="center" colspan="11"></td>
 </tr> 
 <tr>
-<td><a href="https://github.com/LaChacas" target="_blank"><img src="https://joaopauloaramuni.github.io/image/github5.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://github.com/LaChacas" target="_blank"><img src="https://raw.githubusercontent.com/LaChacas/LaChacas/main/image/github.png" width="50px" height="50px"/></a>
 </td>
-<!--td><a href=""><img src="https://joaopauloaramuni.github.io/image/replit3.svg?raw=true" width="50px" height="50px"/></a>
-</td-->
 <td><a href="mailto:gusttavopedros@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/LaChacas/LaChacas/main/image/gmail.png" width="50px" height="50px"/></a>
 </td-->
-<td><a href="https://wa.me/5531975811118" target="_blank"><img src="https://joaopauloaramuni.github.io/image/wpp2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://wa.me/5531975811118" target="_blank"><img src="https://raw.githubusercontent.com/LaChacas/LaChacas/main/image/whats.png" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.instagram.com/qr/?hl=en" target="_blank"><img src="https://joaopauloaramuni.github.io/image/insta2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.instagram.com/qr/?hl=en" target="_blank"><img src="https://raw.githubusercontent.com/LaChacas/LaChacas/main/image/insta.png" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.linkedin.com/in/gustavo-severiano-430833402" target="_blank"><img src="https://joaopauloaramuni.github.io/image/linkedin2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.linkedin.com/in/gustavo-severiano-430833402" target="_blank"><img src="https://raw.githubusercontent.com/LaChacas/LaChacas/main/image/linkedin2.png" width="50px" height="50px"/></a>
 </td>
-<!--td><a href="" target="_blank"><img src="https://joaopauloaramuni.github.io/image/lattes2.png?raw=true" width="50px" height="50px"/></a>
-</td-->
-<!--<td><a href="https://slack.com/app_redirect?channel=UVD9N6VCL"><img src="https://joaopauloaramuni.github.io/image/slack.png?raw=true" width="50px" height="50px"/></a>
-</td>-->
-<!--td><a href="" target="_blank"><img src="https://joaopauloaramuni.github.io/image/discord2.png?raw=true" width="50px" height="50px"/></a>
-</td-->
-<!--td><a href="" target="_blank"><img src="https://joaopauloaramuni.github.io/image/skoob2.png?raw=true" width="50px" height="50px"/></a>
-</td-->
-<!--td><a href="" target="_blank"><img src="https://joaopauloaramuni.github.io/image/scholar2.png?raw=true" width="50px" height="50px"/></a>
-</td-->
-<!--td><a href="" target="_blank"><img src="https://joaopauloaramuni.github.io/image/calendar2.png?raw=true" width="50px" height="50px"/></a>
-</td-->
 </tr>
 <tr>
  <td align="center" colspan="11"></td>
@@ -73,7 +59,7 @@
 <table>
 <tr>
  <td align="center">:octocat: <a href="https://www.githubwrapped.io/LaChacas" target="_blank">GitHub Wrapped</a></td>
- <td align="center">:watch: <a href="https://wakatime.com/@aramuni">WakaTime</a></td>
+ <td align="center">:watch: <a href="https://wakatime.com/@LaChacas" target="_blank">WakaTime</a></td>
 </tr>
 <tr>
 <td>
