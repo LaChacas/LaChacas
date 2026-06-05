@@ -173,22 +173,22 @@
  <td align="center" colspan="2"></td>
 </tr> 
 </table>
-</div>
-
 <div align="center">
 <table>
 <tr>
- <td align="center">:octocat: GitHub 5-Year Retrospective</td>
+ <td align="center">:rocket: Em evolução na área de TI</td>
 </tr>
 <tr>
- <td align="center">
-  <img src="https://joaopauloaramuni.github.io/image/postspark_export_12-16-2024_17-14-32.png" alt="GitHub 5-Year Retrospective">
+ <td align="justify">
+  Atualmente estou construindo minha base em desenvolvimento de sistemas, suporte técnico e banco de dados. 
+  Meu foco é evoluir com projetos práticos, estudos constantes e experiências reais na área de tecnologia.
+  <br><br>
+  <b>Estudando atualmente:</b> HTML, CSS, JavaScript, Git, GitHub, SQL e lógica de programação.
+  <br>
+  <b>Interesses:</b> Desenvolvimento de sistemas, suporte de TI, automação de processos e infraestrutura.
  </td>
 </tr>
 </table>
-</div>
-
-</details>
 </div>
 
 -----
